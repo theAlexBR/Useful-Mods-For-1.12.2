@@ -9,17 +9,18 @@ Mods marked as "Dangerous" might be unstable, and cause some unexpected behaviou
 | [SneedASM](https://www.curseforge.com/minecraft/mc-mods/sneedasm) | None | Optimize RAM usage, Fixes crashes, within different mods, and Forge itself and Optimizes code in general. | Rongmario | Client/Server |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize certain aspects of a modded Minecraft experience using simple, targeted optimizations. | asiekierka | Client/Server |
 | [Particle Culling](https://www.curseforge.com/minecraft/mc-mods/particle-culling) | None | This mod is a client-side performance enhancing mod, which stops particles that are outside the player's view from rendering. | bl4ckscor3 | Client |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entity-culling) | None | Entity Culling is a relatively small client-side performance core mod which aims to skip rendering of hidden (tile-)entities. | meldexun | Client |
 | [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | Tinkers Construct | After everything is loaded it goes over your texture manager and deletes all the none animate sprites from your ram to reduce the amount of Ram that is using. | Speiger | Client
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | None | 3X More FPS, Make interdimensional teleportation over 10x faster, Catch crashes, causing them to crash only the current world rather than the whole game, Make world creation faster on large modpacks, Automatic identification of the mod(s) which caused a crash | Runemoro | Client/Server
 | [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | None | Surge is an open source mod which aims to improve the load time and performance of the game. | DarkhaxDev | Both |
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | None | This is a lightweight mod project which hugely improves performance and blocklag. | someaddon | Client/Server |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | None | This is a small/light serverside utility mod to help balancing lag(tps) and chunk view/load distance. When the server is not lagging it increases the chunk view distance, once it goes over the given lag threshold it reduces the chunk view distance. | someaddon | Server |
 | [TidyChunk](https://www.curseforge.com/minecraft/mc-mods/tidychunk) | None | Clean dropped items after chunk generation | OreCruncher | Server |
-| [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | None | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions. This results in slightly different terrain per seed, but reduces generation time. Reduction on my 4 core system is approximately 5ms or 12% per chunk, and should be higher on systems with more available cores. | bloodnbonesgaming | Both |
-
-
-
-
-
-
-https://essential.gg/download
+| [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | None | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions. This results in slightly different terrain per seed, but reduces generation time.. | bloodnbonesgaming | Both |
+| [Calm Down Zombie Guy](https://www.curseforge.com/minecraft/mc-mods/calm-down-zombie-guy) | None | This mod aims to fix a niche case bug that causes Zombie Pigmen to be able to attack you in the overworld from the Nether if they are agroed while the player transitions. | bloodnbonesgaming | Server |
+| [Mobs On Rails](https://www.curseforge.com/minecraft/mc-mods/mobs-on-rails) | None | Allow mobs walk on rails, Mineshaft encounters won't be so easy to cheese anymore! | naqaden | Server |
+| [No No-AI Spawn](https://www.curseforge.com/minecraft/mc-mods/no-no-ai-spawn) | None | Fix mobs with No-AI on you world, also fix the No-AI skeletons in Spiders 2.0 | taoismdeeplake | Client |
+| [Bigger Packets Please](https://www.curseforge.com/minecraft/mc-mods/bigger-packets-please) | None | Fixes when too big a packet is received from the server, and client disconnect with an error message. | ElNounch | Both(i think) |
+| [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) | None | Simplified AI modification mod focused on performance and low-level modifications to AIs in the game. Picking up the slack for the base game and improving it for a modded ecosystem. Handling common problems such as too many animals, performance hits from swarms of zombies, and simple remove tasks skipped by larger AI improvement mods. | QueenOfMissiles | Server |
+| [AI Reducer](https://www.curseforge.com/minecraft/mc-mods/ai-reducer) | None | Server side mod, has some features to reduce the lag from AI in modded environments. | Charles445 | Server |
+| [Login Shield](https://www.curseforge.com/minecraft/mc-mods/login-shield) | None | Simple server side mod that protects players from damage during login. | Glasspelican | Server |
