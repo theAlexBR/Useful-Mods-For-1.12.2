@@ -10,7 +10,7 @@ A: Idk, you should [try and see](https://tryitands.ee/) :)
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | :---: | :---: | :---: | :---: | :---: |
 | [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) (Essential) | None | The most essential optimization mod on Earth | OptiFine Team | Client |
-| [Essential](https://essential.gg/download) | None | Allows you to play with friends without Radmin or Hamachi, basically port the best points of Bedrock Edition to Java | Essential Team | Both |
+| [Essential](https://essential.gg/download) | None | Allows you to play with friends without Radmin or Hamachi, basically port the best points of Bedrock Edition to Java | Essential Team | To be more detailed, everyone who wants to play in your world needs to use this mod |
 | [SneedASM](https://www.curseforge.com/minecraft/mc-mods/sneedasm) | None | Optimize RAM usage, Fixes crashes, within different mods, and Forge itself and Optimizes code in general. | Rongmario | Client/Server |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | FoamFix is a mod designed to optimize certain aspects of a modded Minecraft experience using simple, targeted optimizations. | asiekierka | Client/Server |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Albedo, OpenCubicChunks, Other Lighting Mods | Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas-- the lighting engine. | jellysquid3_ | Client/Server |
