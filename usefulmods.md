@@ -1,6 +1,11 @@
 # Useful Mods (1.12.2)
 This list is focused on the 1.12.2 version of Minecraft.<br>
 Mods marked as "Dangerous" might be unstable, and cause some unexpected behaviour.<br>
+<br>
+FAQ<br>
+Q: Is _[Mod1]_ compatible with _[Mod2]_ ? <br>
+A: Idk, you should [try and see](https://tryitands.ee/) :)
+<br>
 
 | Name | Known Incompatibilities | Description | Author | Performance Improvement |
 | :---: | :---: | :---: | :---: | :---: |
