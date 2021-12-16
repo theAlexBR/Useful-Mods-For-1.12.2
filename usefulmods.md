@@ -10,6 +10,7 @@ A: Idk, you should [try and see](https://tryitands.ee/) :)
 **Dangerous**: Can be _unstable_, *bugs can happen unpredictably at any time.*<br>
 | Mod Name | Incompatibilities | Description | Author | Side |
 | :---: | :---: | :---: | :---: | :---: |
+| [Log4jExploitPatch](https://www.curseforge.com/minecraft/mc-mods/nukejndilookupfromlog4j) | None | This mod fixes a major vulnerability introduced by log4j through its JndiLookup, more information [here](https://github.com/apache/logging-log4j2/pull/608). | Rongmario | Server |
 | [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) | None | The most essential optimization mod on Earth | OptiFine Team | Client |
 | [Essential](https://essential.gg/download) | Cosmetics with Mo'Bends are not correctly adjusted | Allows you to play with friends without Radmin or Hamachi, and also has some cosmetics. | Essential Team | Both |
 | [SneedASM](https://www.curseforge.com/minecraft/mc-mods/sneedasm) | None | Optimize RAM usage, Fixes crashes, within different mods, and Forge itself and Optimizes code in general. | Rongmario | Client/Server |
@@ -20,8 +21,8 @@ A: Idk, you should [try and see](https://tryitands.ee/) :)
 | [TexFix](https://www.curseforge.com/minecraft/mc-mods/texfix) | Tinkers Construct | After everything is loaded it goes over your texture manager and deletes all the textures(non animated) from your ram to reduce the amount of Ram that is using. | Speiger | Client
 | [VanillaFix](https://www.curseforge.com/minecraft/mc-mods/vanillafix) | None | FPS Boost, Make interdimensional teleportation over 10x faster, Crashes dont close you game, Make world creation faster on large modpacks. | Runemoro | Client/Server
 | [Surge](https://www.curseforge.com/minecraft/mc-mods/surge) | None | Improve the load time and performance of the game. | DarkhaxDev | Both |
-| [Performant](https://www.curseforge.com/minecraft/mc-mods/performant) | None | A lightweight mod project which hugely improves performance and blocklag. | someaddon | Client/Server |
-| [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) (Dangerous) | None | When the server is not lagging it increases the chunk view distance, and if is lagging it reduces the chunk view distance. | someaddon | Server |
+| [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)(Dangerous) | None | A lightweight mod project which hugely improves performance and blocklag. | someaddon | Client/Server |
+| [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | None | When the server is not lagging it increases the chunk view distance, and if is lagging it reduces the chunk view distance. | someaddon | Server |
 | [TidyChunk](https://www.curseforge.com/minecraft/mc-mods/tidychunk) | None | Clean dropped items after chunk generation | OreCruncher | Server |
 | [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | None | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions, basically reduces generation time. | bloodnbonesgaming | Both |
 | [Calm Down Zombie Guy](https://www.curseforge.com/minecraft/mc-mods/calm-down-zombie-guy) | None | fixes the bug bug that causes Zombie Pigmen to be able to attack you in the overworld from the Nether if they are agroed while the player transitions. | bloodnbonesgaming | Server |
