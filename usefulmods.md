@@ -24,6 +24,7 @@ A: Idk, you should [try and see](https://tryitands.ee/) :)
 | [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)(Dangerous) | None | A lightweight mod project which hugely improves performance and blocklag. | someaddon | Client/Server |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | None | When the server is not lagging it increases the chunk view distance, and if is lagging it reduces the chunk view distance. | someaddon | Server |
 | [TidyChunk](https://www.curseforge.com/minecraft/mc-mods/tidychunk) | None | Clean dropped items after chunk generation | OreCruncher | Server |
+| [ChunkGenLimiter](https://www.curseforge.com/minecraft/mc-mods/chunkgenlimited) | None | A small, simple mod that allows to limit max chunk generation per tick for improved server performance. | barteks2x | Server |
 | [Multithreaded Noise](https://www.curseforge.com/minecraft/mc-mods/multithreaded-noise) | None | This mod makes overworld terrain generate faster by replacing the three 3D noise generators in the overworld with multithreaded versions, basically reduces generation time. | bloodnbonesgaming | Both |
 | [Calm Down Zombie Guy](https://www.curseforge.com/minecraft/mc-mods/calm-down-zombie-guy) | None | fixes the bug bug that causes Zombie Pigmen to be able to attack you in the overworld from the Nether if they are agroed while the player transitions. | bloodnbonesgaming | Server |
 | [Mobs On Rails](https://www.curseforge.com/minecraft/mc-mods/mobs-on-rails) | None | Allow mobs walk on rails | naqaden | Server |
