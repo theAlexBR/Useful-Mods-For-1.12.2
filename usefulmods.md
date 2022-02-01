@@ -13,6 +13,7 @@ A: Idk, you should [try and see](https://tryitands.ee/) :)
 | [Log4jExploitPatch](https://www.curseforge.com/minecraft/mc-mods/nukejndilookupfromlog4j) | None | This mod fixes a major vulnerability introduced by log4j through its JndiLookup, more information [here](https://github.com/apache/logging-log4j2/pull/608). | Rongmario | Server |
 | [OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar) | None | The most essential optimization mod on Earth | OptiFine Team | Client |
 | [Essential](https://essential.gg/download) | Cosmetics with Mo'Bends are not correctly adjusted | Allows you to play with friends without Radmin or Hamachi, and also has some cosmetics. | Essential Team | Both |
+| [Patcher](https://sk1er.club/mods/patcher) | a bunch of other optimization mods | Similar to RandomPatches, but much MUCH better! (also install Essential automaticaly) | Sk1er | Client |
 | [CensoredASM](https://www.curseforge.com/minecraft/mc-mods/sneedasm) | None | Optimize RAM usage, Fixes crashes, within different mods, and Forge itself and Optimizes code in general. | Rongmario | Client/Server |
 | [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) | None | Optimize certain aspects of a modded Minecraft experience using simple, targeted optimizations. | asiekierka | Client/Server |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) | Albedo, OpenCubicChunks, Other Lighting Mods | Optimize one of game's most inefficient areas-- the lighting engine. | jellysquid3_ | Client/Server |
